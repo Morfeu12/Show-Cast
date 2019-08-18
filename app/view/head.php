@@ -7,7 +7,11 @@
             <span class="uk-position-top-center m-titulo">SHOW CAST</span>
         </div>
             <div id="offcanvas-nav-primary" uk-offcanvas="overlay: true">
+            
                 <div class="uk-offcanvas-bar m_uk-offcanvas-bar uk-flex uk-flex-column">
+                    <div class="uk-position-small uk-position-top-right uk-overlay ">
+                        <a href="" uk-icon="icon: close; ratio: 2" uk-toggle="target: #offcanvas-nav-primary"></a>
+                    </div>
                     <img src="public/img/logo.png" alt="logotipo">
                     <ul class="m_uk-nav uk-nav uk-nav-primary m_uk-nav-primary uk-nav-center uk-margin-auto-vertical">
                         <li class="uk-active"><a href="#"><span class="uk-margin-small-right" uk-icon="icon: home; ratio: 2.5"></span>Home</a></li>

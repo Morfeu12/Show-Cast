@@ -29,6 +29,15 @@
 	.m-principal-titulo{
 	font-size: 6rem!important;
 	}
+	.uk-dotnav>*>* {
+		width: 45px!important;
+		height: 45px!important;
+	}
+	#contatos > div > div > div > div > ul > li > div > div > div > div > a > svg{
+		width: 12rem!important;
+		height: 12rem!important;
+		color: #fff;
+	}
 }
 footer{
 	background-color: #000D;
