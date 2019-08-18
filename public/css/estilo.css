@@ -1,0 +1,35 @@
+@media (min-width:1200px) {
+    body{
+        background-image: url("../../public/img/background.jpg");
+        background-color: #fff;
+        background-position-y: 100%;
+    }
+    .fundo-branco-transparente{
+        background-color: #fffd; 
+    }
+    .d-uk-flex-row {
+        flex-direction: row!important
+    }
+}
+.d-uk-navbar-nav>li>a {
+    font-size: 1.15rem !important;
+}
+.d-uk-grid>* {
+    padding-left: 0px !important;
+}
+.d-nav-back-transparente{
+	background: #0009 !important;
+	height: 90px !important;
+}
+#portifolio{
+    padding-top: 20px;
+}
+#contatos{
+    padding-top: 20px;
+}
+#copy{
+    background-color: #000D;
+    padding-top: 10px;
+    padding-bottom: 5px; 
+
+}

@@ -1,0 +1,54 @@
+@media (max-width:1199px) {
+	h6{
+		font-size: 3rem!important;
+	}
+	#copy>span{
+		font-size: 1.5rem!important;
+	}
+	#footer-text>p{
+		font-size: 2rem!important;
+	}
+	.m-titulo{
+		font-size: 3.5rem!important;
+	}
+	.m-descricao{
+		font-size: 2.5rem!important;
+	}
+	.m-legenda{
+		font-size: 1.8rem!important;
+	}
+	.contato>img{
+		width: 40rem !important;
+	}
+	.contato-text>h4{
+		font-size: 4.4rem!important;
+	}
+	.contato-text>span{
+		font-size: 3rem!important;
+	}
+	.m-principal-titulo{
+	font-size: 6rem!important;
+	}
+}
+footer{
+	background-color: #000D;
+}
+.m_uk-nav-primary>li>a {
+    font-size: 3.5rem !important;
+    line-height: 1.5 !important;
+  }
+  .m_uk-nav li>a {
+    padding: 20px !important;
+}
+.m_uk-nav-header {
+    font-size: 1.875rem !important;
+}
+.m_uk-offcanvas-bar {
+    width: 70% !important;
+}
+.uk-offcanvas-overlay::before {
+    background: rgba(0,0,0,.5)!important;
+}
+.m_uk-nav-sub a {
+    font-size: 25px !important;
+}
