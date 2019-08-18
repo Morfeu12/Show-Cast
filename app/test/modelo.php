@@ -1,7 +1,7 @@
-<?php require_once"../view/stylesheet.php"; ?>
-    <!-- -->
-    <section>
+<?php require_once"header-test.php"; ?>
+    <!-- Inicio -->
+    <section id="fomulario" class="fundo-branco-transparente">
         
     </section>
     <!-- FIM -->
-<?php require_once"../view/script.php"; ?>
+<?php require_once"script-test.php"; ?>
